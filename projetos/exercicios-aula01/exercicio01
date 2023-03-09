@@ -1,0 +1,17 @@
+# EXERCICIOS:
+# Fazer um algoritmo/programa que:
+
+# 1. Calcule o dobro de um numero dado pelo usuário
+# --------------
+# Digite um numero: 8
+# Dobro = 16
+
+n1 = input("Digite um número: ")
+
+n1 = int (n1)
+
+dobro = (n1 *2)
+print("O dobro de",n1,"é:",dobro)
+
+
+
